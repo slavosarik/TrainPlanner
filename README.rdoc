@@ -1,0 +1,5 @@
+== Trainsport
+
+Train travel planner
+
+Ruby on Rails web application, PostgreSQL database
